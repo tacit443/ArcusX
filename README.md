@@ -13,7 +13,7 @@ Current solutions exclude the underbanked and limit access to global opportuniti
 Solution
 
 ArcusX is a blockchain-powered freelance marketplace with transparent smart contracts.
-We reduce fees to ~2%, enable instant crypto-to-fiat settlement, and open borderless opportunities. (DocLink)
+We reduce fees to ~2%, enable instant crypto-to-fiat settlement, and open borderless opportunities.
 
 Business Model
 
@@ -23,7 +23,7 @@ Our incentives are aligned: we only win when freelancers earn more. (https://doc
 Market Opportunity
 
 Global freelancing is projected to hit $455B by 2030, with LATAM as the fastest-growing region.
-ArcusX is positioned as the first Web3-native freelancing platform focused on this market. (DocLink)
+ArcusX is positioned as the first Web3-native freelancing platform focused on this market. 
 
 Traction & Roadmap
 
@@ -46,4 +46,5 @@ Our history in blockchain ecosystems and startup networks gives us unique go-to-
 
 Pitch Deck & Docs 
 
-Complete pitch, financial model, and technical documentation available here.
+Complete pitch (https://www.canva.com/design/DAGlgPlmBsA/RV8EBl8RxdthnW_Mlutg3A/edit?utm_content=DAGlgPlmBsA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+financial model, and technical documentation available here.
