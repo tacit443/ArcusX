@@ -13,7 +13,7 @@ Current solutions exclude the underbanked and limit access to global opportuniti
 Solution
 
 ArcusX is a blockchain-powered freelance marketplace with transparent smart contracts.
-We reduce fees to ~5%, enable instant crypto-to-fiat settlement, and open borderless opportunities. (DocLink)
+We reduce fees to ~2%, enable instant crypto-to-fiat settlement, and open borderless opportunities. (DocLink)
 
 Business Model
 
