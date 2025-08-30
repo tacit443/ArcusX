@@ -8,7 +8,7 @@ ArcusX connects global clients with LATAM talent, enabling fairer work, instant 
 Problem
 
 Freelancers in LATAM lose up to 30% of income to platforms and face delayed, unreliable cross-border payments.
-Current solutions exclude the underbanked and limit access to global opportunities. (DocLink)
+Current solutions exclude the underbanked and limit access to global opportunities. (https://docs.arcusx.one/getting-started/quickstart/about-arcusx)
 
 Solution
 
@@ -18,7 +18,7 @@ We reduce fees to ~2%, enable instant crypto-to-fiat settlement, and open border
 Business Model
 
 Revenue comes from transaction fees, premium client tools, and future fintech services (wallet, escrow, credit).
-Our incentives are aligned: we only win when freelancers earn more. (DocLink)
+Our incentives are aligned: we only win when freelancers earn more. (https://docs.arcusx.one/getting-started/publish-your-docs)
 
 Market Opportunity
 
@@ -27,16 +27,23 @@ ArcusX is positioned as the first Web3-native freelancing platform focused on th
 
 Traction & Roadmap
 
-Smart contracts are deployed; MVP platform is in development. (Link)
+Smart contracts are deployed; MVP platform is in development. (https://docs.arcusx.one/community/arcusx-roadmap)
 
 We’ve built an engaged LATAM Web3 community and established early partnerships for testing and adoption.                    
-(RSS Link)
 
-Team
+
+Instagram: https://www.instagram.com/arcusx_/ 
+
+Twitter: https://x.com/ArcusX_one
+
+Linkedin: https://www.linkedin.com/in/arcus-x-000348342/
+
+Website: https://arcusx.one
+
 
 A mix of Web3 developers, fintech operators, and community builders across LATAM.
 Our history in blockchain ecosystems and startup networks gives us unique go-to-market strength. 
 
-Pitch Deck & Docs
+Pitch Deck & Docs 
 
 Complete pitch, financial model, and technical documentation available here.
