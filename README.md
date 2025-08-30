@@ -47,4 +47,5 @@ Our history in blockchain ecosystems and startup networks gives us unique go-to-
 Pitch Deck & Docs 
 
 Complete pitch (https://www.canva.com/design/DAGlgPlmBsA/RV8EBl8RxdthnW_Mlutg3A/edit?utm_content=DAGlgPlmBsA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-financial model, and technical documentation available here.
+
+financial model, and technical documentation available here. (https://docs.arcusx.one/)
