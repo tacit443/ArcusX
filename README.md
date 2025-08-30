@@ -1,7 +1,6 @@
 # ArcusX
-ArcusX.Readme
 
-rcusX
+ArcusX is a descentralized web3 freelancing platform basen on Chile
 
 The decentralized Upwork for Latin America — lowering fees by 80% and unlocking global payments for millions of freelancers.
 ArcusX connects global clients with LATAM talent, enabling fairer work, instant payments, and financial inclusion through Web3 rails. 
