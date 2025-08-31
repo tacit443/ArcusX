@@ -1,0 +1,201 @@
+.create-task-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  background-color: #0b1b2f; /* Fondo oscuro similar al dashboard */
+  min-height: 100vh;
+  color: #fff;
+}
+
+.back-button {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #28c0f0;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: color 0.3s ease;
+}
+
+.back-button:hover {
+  color: #1180b3;
+}
+
+.create-task-form-card {
+  background-color: #1a2a3d; /* Fondo de tarjeta oscuro */
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  width: 100%;
+  max-width: 600px; /* Ancho máximo del formulario */
+  margin-top: 2rem;
+}
+
+.create-task-form-card h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #28c0f0;
+}
+
+.create-task-form .form-group {
+  margin-bottom: 1rem;
+}
+
+.create-task-form label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: #e1e1e1;
+}
+
+.create-task-form input[type="text"],
+.create-task-form input[type="number"],
+.create-task-form textarea,
+.create-task-form select {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #3a4a5a; /* Borde oscuro */
+  border-radius: 5px;
+  background-color: #0f1e2d; /* Fondo de input oscuro */
+  color: #fff;
+  font-size: 1rem;
+}
+
+.create-task-form input[type="text"]::placeholder,
+.create-task-form input[type="number"]::placeholder,
+.create-task-form textarea::placeholder {
+  color: #b0b0b0;
+}
+
+.create-task-form textarea {
+  resize: vertical;
+  min-height: 100px;
+}
+
+.price-help {
+  color: #888;
+  font-size: 0.8rem;
+  margin-top: 0.25rem;
+  display: block;
+}
+
+.create-task-form button[type="submit"] {
+  width: 100%;
+  padding: 0.75rem;
+  background: linear-gradient(90deg, #28c0f0, #1180b3); /* Gradiente similar al dashboard */
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  margin-top: 1.5rem;
+}
+
+.create-task-form button[type="submit"]:disabled {
+  background: #555;
+  cursor: not-allowed;
+}
+
+.success-message {
+  color: #4CAF50;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.error-message {
+  color: #f44336;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+/* Estilos para WalletConnect y estado de pago */
+.wallet-section {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background-color: rgba(40, 192, 240, 0.1);
+  border: 1px solid rgba(40, 192, 240, 0.3);
+  border-radius: 8px;
+}
+
+.wallet-section h3 {
+  margin-bottom: 1rem;
+  color: #28c0f0;
+  font-size: 1.1rem;
+}
+
+.wallet-warning {
+  color: #ff9800;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.contract-connecting {
+  color: #2196f3;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.contract-connected {
+  color: #4caf50;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.payment-status {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+.payment-processing {
+  background-color: rgba(255, 152, 0, 0.1);
+  border: 1px solid rgba(255, 152, 0, 0.3);
+  color: #ff9800;
+}
+
+.payment-confirmed {
+  background-color: rgba(76, 175, 80, 0.1);
+  border: 1px solid rgba(76, 175, 80, 0.3);
+  color: #4CAF50;
+}
+
+.payment-failed {
+  background-color: rgba(244, 67, 54, 0.1);
+  border: 1px solid rgba(244, 67, 54, 0.3);
+  color: #f44336;
+}
+
+.payment-status .spinner {
+  animation: spin 1s linear infinite;
+}
+
+.retry-button {
+  background: #ff9800;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.retry-button:hover {
+  background: #f57c00;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
