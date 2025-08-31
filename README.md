@@ -1,4 +1,3 @@
-@@ -1,51 +1,54 @@
 # ArcusX
 
 ArcusX is a descentralized web3 freelancing platform from Chile
