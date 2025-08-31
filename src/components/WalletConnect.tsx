@@ -3,12 +3,7 @@ import { FaWallet, FaSpinner } from 'react-icons/fa';
 import { useWallet } from '../contexts/WalletContext';
 import '../css/WalletConnect.css';
 
-interface WalletConnectProps {
-  onConnect?: (address: string) => void;
-  onDisconnect?: () => void;
-}
-
-const WalletConnect: React.FC<WalletConnectProps> = ({ onConnect, onDisconnect }) => {
+const WalletConnect: React.FC = () => {
   const { 
     isConnected, 
     isConnecting, 
