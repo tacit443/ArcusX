@@ -1,54 +1,52 @@
-# React + TypeScript + Vite
+@@ -1,51 +1,54 @@
+# ArcusX
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ArcusX is a descentralized web3 freelancing platform from Chile
 
-Currently, two official plugins are available:
+The decentralized Upwork for Latin America — lowering fees by 80% and unlocking global payments for millions of freelancers.
+ArcusX connects global clients with LATAM talent, enabling fairer work, instant payments, and financial inclusion through Web3 rails. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Problem
 
-## Expanding the ESLint configuration
+Freelancers in LATAM lose up to 30% of income to platforms and face delayed, unreliable cross-border payments.
+Current solutions exclude the underbanked and limit access to global opportunities. (https://docs.arcusx.one/getting-started/quickstart/about-arcusx)
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+Solution
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+ArcusX is a blockchain-powered freelance marketplace with transparent smart contracts.
+We reduce fees to ~2%, enable instant crypto-to-fiat settlement, and open borderless opportunities.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Business Model
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+Revenue comes from transaction fees, premium client tools, and future fintech services (wallet, escrow, credit).
+Our incentives are aligned: we only win when freelancers earn more. (https://docs.arcusx.one/getting-started/publish-your-docs)
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+Market Opportunity
+
+Global freelancing is projected to hit $455B by 2030, with LATAM as the fastest-growing region.
+ArcusX is positioned as the first Web3-native freelancing platform focused on this market. 
+
+Traction & Roadmap
+
+Smart contracts are deployed; MVP platform is in development. (https://docs.arcusx.one/community/arcusx-roadmap)
+
+We’ve built an engaged LATAM Web3 community and established early partnerships for testing and adoption.                    
+
+
+Instagram: https://www.instagram.com/arcusx_/ 
+
+Twitter: https://x.com/ArcusX_one
+
+Linkedin: https://www.linkedin.com/in/arcus-x-000348342/
+
+Website: https://arcusx.one
+
+
+A mix of Web3 developers, fintech operators, and community builders across LATAM.
+Our history in blockchain ecosystems and startup networks gives us unique go-to-market strength. 
+
+Pitch Deck & Docs 
+
+Complete pitch (https://www.canva.com/design/DAGlgPlmBsA/RV8EBl8RxdthnW_Mlutg3A/edit?utm_content=DAGlgPlmBsA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+financial model, and technical documentation available here. (https://docs.arcusx.one/)
